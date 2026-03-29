@@ -1,2 +1,1 @@
-# bug-free-invention
-free website structure for new launches 
+# This is my interpretation of the Formula One car's threshold in driving. When the stability of the car falls apart, what are the key factors that contribute to that? That's what I have stated by using various graphs. 
